@@ -1,6 +1,6 @@
 # BehaviorBench
 
-This is the companion code for the benchmarking study reported in the paper "Beyond Self-Play and Scale: A Behavior Benchmark for Generalization in Autonomous Driving", submitted to NeurIPS2026. The paper can be found here http://arxiv.org/abs/xxxx.xxxx. The code allows the users to reproduce and extend the results reported in the study. Please cite the above paper when reporting, reproducing or extending the results.
+This is the companion code for the benchmarking study reported in the paper "Beyond Self-Play and Scale: A Behavior Benchmark for Generalization in Autonomous Driving", accepted at NeurIPS2026. The paper can be found at https://arxiv.org/pdf/2605.10034. The code allows the users to reproduce and extend the results reported in the study. Please cite the above paper when reporting, reproducing or extending the results.
 
 This software is a research prototype, solely developed for and published as part of the publication above.
 
